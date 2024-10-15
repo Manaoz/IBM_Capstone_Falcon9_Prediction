@@ -27,7 +27,7 @@ We aim to answer:
    - Hyperparameter optimization
 
 ## Results
-The analysis shows that [insert key results here].
+The analysis shows that [].
 
 ## Conclusion
 This project provides insights into how certain factors, like payload mass and orbit type, influence the Falcon 9 landing success. These insights could potentially help other companies optimize their space missions and reduce costs by reusing rocket components.
