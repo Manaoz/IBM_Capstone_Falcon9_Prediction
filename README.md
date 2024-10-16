@@ -79,7 +79,7 @@ The Decision Tree model outperforms other models with the highest accuracy rate.
 ### Confusion Matrix for Decision Tree Model
 The confusion matrix below provides insight into the performance of the Decision Tree model:
 
-![Confusion Matrix](Resources/Images/ConfusionMat.png)  <!-- Update the path as necessary -->
+![Confusion Matrix](Resources/Images/confusionMat.png)  
 
 The Decision Tree model demonstrated high accuracy, correctly classifying 17 out of 18 cases. However, the presence of false positives (Type I errors) suggests there is room for improvement, as they reduce the overall reliability of the model.
 
